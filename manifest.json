@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "product": "GymControl",
+    "version": "2.1.0",
+    "published": "2026-11-17",
+    "download_url": "https://github.com/Eldeivid2110/gymcontrol-actualizaciones/releases/download/v2.1.0/GymControl_Instalador_2.1.exe",
+    "sha256": "e2589e9c65f86a6342a07306c5f68d193dd7a4cb1c330df2119baf71d41f1df6",
+    "size": 55565457,
+    "notes": "Mejoras de estabilidad y seguridad."
+  },
+  "signature": "w5XWdnAJ0G6IhUaW0nRlbFJFQTo8gykne2pbPYP5Xl+p6NKAUxM8LT1ypYsGLHP974Ik+M8KD4vwNpRk2F8wBw=="
+}
