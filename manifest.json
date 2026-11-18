@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "product": "GymControl",
+    "version": "2.3.0",
+    "published": "2026-11-17",
+    "download_url": "https://github.com/Eldeivid2110/gymcontrol-actualizaciones/releases/download/v2.3.0/GymControl_Instalador_2.3.exe",
+    "sha256": "b202f579aaa8bda121fbc44fe7d3e8be83d8b4fcdf78f363cbedcdbd214468c6",
+    "size": 55579631,
+    "notes": "GymControl 2.3.0: rediseño visual profesional, panel principal renovado, estadísticas más claras, gráfico de ingresos mejorado y configuración simplificada. Se conservan todas las funciones anteriores."
+  },
+  "signature": "XBe7IOW+6l/MsHmfb87L3BfzQS8nO1r+mDwWUm7YIjO/dlu0T0+nCpljqQOCAyvWFREaTRrIYi0czntMaL9EAA=="
+}
